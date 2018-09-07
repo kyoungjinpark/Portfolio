@@ -48,8 +48,8 @@ var gApp = angular.module('gApp', []);
 			 url : "team/parkkyoungjin.pdf", 
 			 title: "Team",
 			 name: "project",
-			 img: "team/portfolio1.jpg",
-			 img2: "team/portfolio1.jpg",
+			 img: "team/portfolio1.JPG",
+			 img2: "team/portfolio1.JPG",
 			 type : true, 
 			 contents: "UI 과정에서 배운 싱글 페이지 전환, 테이블 작성, CSS 효과를 최소 한번씩은 사용하기 위한 작업을 했고 그 과정에서 자연스럽게 이해도를 높일 수 있었으며, 팀으로 작업하는 과정에서 여러 시행 착오를 통해 협업에 필요한 세부적인 기술 습득이 가능했습니다. 사람의 허영심에 대한 부정적 혹은 긍정적 인상에 대해서 평소 가지고 있던 생각을 Vanity Fair 서비스 철학에 담을 수 있어 흡족했습니다. 부연 하자면, 타인을 의식한 허영심, 자기 만족을 위한 허영심 모두에 대해서 그 단어에서 느껴지는 부정적인 측면 보다는 긍정적인 측면에 더 집중하면 새로운 시각을 가질 수 있을 것이라 생각했고, 이를 수익화 한다면 이런 형태일 것으로 판단했습니다."
 			},{
